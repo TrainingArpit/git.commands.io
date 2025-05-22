@@ -1,7 +1,7 @@
 # git.commands.io
 
 Learn Git Cheat Sheet (Basic to Advanced Concepts)
----------------------------------------------------------------------Git Installation Commands---------------------------------------------------------
+---------------Git Installation Commands----------------------------
 Here are the Git installation commands for different operating systems:
 
 Commands
